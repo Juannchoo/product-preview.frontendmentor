@@ -3,7 +3,7 @@
     font-family: "Montserrat";
     font-stretch: normal;
     font-weight: 500, 700;
-    src: url(/fonts/Montserrat/Montserrat-VariableFont_wght.ttf)
+    src: url(fonts/Montserrat/Montserrat-VariableFont_wght.ttf)
     
 }
 
@@ -11,7 +11,7 @@
     font-family: "Fraunces";
     font-stretch: normal;
     font-weight: 500, 700;
-    src: url(/fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+    src: url(fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
 }
 
 
